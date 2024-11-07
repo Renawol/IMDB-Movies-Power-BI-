@@ -12,12 +12,12 @@ The data was taken of [this Kaggle dataset](https://www.kaggle.com/datasets/adri
 
 The dataset contains more than 3300 entries of movies registered in the IMDB webpage. The films date from 1975 until 2023.
 
-Rows contain the unique **id** of the film in the database, its **title**, **duration**, **rating** and **number of votes**, **budget**, **gross income**, **release_date** and **director(s)**
+Rows contain the unique **id** of the film in the database, its **title**, **duration**, **rating** and **number of votes**, **budget**, **gross income**, **release_date** and **director(s)**.
 
 Apparently the dataset downloaded from Kaggle is almost cleaned. Nevertheless, before importing it to Power Bi, we checked it out in Python. We just found that the 0.14% (5 rows) of the *release_date* values were nulls. Since they were that few, we comleted 
 the data visiting the IMDB webpage. Moreover, 1.5% of the *gross* values were nulls. In this case, we just dropped this rows.
 
-You can check the Jupyter Notebook in the repository
+You can check the Jupyter Notebook in the repository.
 
 ## Pages:
 - "GeneralStudy", where we answer the following questions:
@@ -37,7 +37,7 @@ You can check the Jupyter Notebook in the repository
   - Text box explaining the dashboard
  
   ## Next commits:
-  -Powerpoint explaining the dashboards
-  -Explanation of the measures, commands and tables used.
+- Powerpoint explaining the dashboards.
+- Explanation of the measures, commands and tables used.
 
 :pineapple:
