@@ -5,7 +5,7 @@
 
 
 In this proyect I practice with some visualizations and DAX commands in Power BI. 
-The data was taken of [this Kaggle dataset](https://www.kaggle.com/datasets/adriankiezun/imdb-dataset-2023)
+The data was taken of [this Kaggle dataset](https://www.kaggle.com/datasets/adriankiezun/imdb-dataset-2023).
 
 
 ## Data context
@@ -37,7 +37,7 @@ You can check the Jupyter Notebook in the repository
   - Text box explaining the dashboard
  
   ## Next commits:
-  Powerpoint explaining the dashboards
-  Explanation of the measures, commands and tables used.
+  -Powerpoint explaining the dashboards
+  -Explanation of the measures, commands and tables used.
 
 :pineapple:
